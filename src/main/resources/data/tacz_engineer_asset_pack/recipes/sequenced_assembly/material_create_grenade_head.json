@@ -12,7 +12,7 @@
   ],
   "sequence": [
     {
-      "type": "create:pressing",
+      "type": "create:cutting",
       "ingredients": [
         {
           "item": "tacz_engineer_asset_pack:material_create_grenade_head_incomplete"

@@ -103,20 +103,6 @@
   "effect.tacz_engineer_asset_pack.nitrated_mobeffect": "Nitrated",
   "effect.tacz_engineer_asset_pack.nitrated_mobeffect.description": "You might explode under certain circumstances.",
 
-  "item.immersiveengineering.empty_casing": "Pistol Casing",
-  "item.immersiveengineering.empty_shell": "Buckshot Casing",
-  "item.immersiveengineering.gunpart_hammer": "Gun Hammer",
-  "item.immersiveengineering.gunpart_barrel": "Steel Smoothbore Barrel",
-
-  "desc.immersiveengineering.info.blueprint.taczE_high_energy_chemistry": "High Energy Chemistry",
-  "desc.immersiveengineering.info.blueprint.taczE_firearm_components": "Firearm Components",
-  "desc.immersiveengineering.info.blueprint.taczE_advanced_firearm_components": "Advanced Firearm Components",
-  "desc.immersiveengineering.info.blueprint.taczE_advanced_weapon_power_system": "Advanced Weapon Power System",
-  "desc.immersiveengineering.info.blueprint.taczE_firearm_electronics": "Firearm Electronics",
-  "desc.immersiveengineering.info.blueprint.taczE_common_projectile_mold": "Common Projectile Mold",
-  "desc.immersiveengineering.info.blueprint.taczE_specialized_projectile_mold": "Specialized Projectile Mold",
-  "desc.immersiveengineering.info.blueprint.taczE_gunpart_mold": "Gun Parts Mold",
-
 
 
   "tooltip.tacz_engineer_asset_pack.casing_rifle.tooltip": "Crafted by steel, duraluminum, brass, or polymer",
@@ -133,7 +119,7 @@
   "tooltip.tacz_engineer_asset_pack.head_shell.tooltip": "Crafted by steel or brass",
   "tooltip.tacz_engineer_asset_pack.head_slug.tooltip": "Crafted by a wide range of material",
   "tooltip.tacz_engineer_asset_pack.material_ap_incomplete.tooltip": "Hard metallic core of APFSDS\nAdd sabot on workbench to complete it\nCrafted by steel, netherite, depleted uranium, or ceramo-metal alloy",
-  "tooltip.tacz_engineer_asset_pack.material_arc_powder.tooltip": "Induces C-C cold fusion under high power current and certain pressure",
+  "tooltip.tacz_engineer_asset_pack.material_arc_powder.tooltip": "Induces C-C cold fusion under high power current and certain pressure.\nHint: Photoelectric effect might be a good idea to initiate the reaction, rather than poking two copper wires into the mixture.",
   "tooltip.tacz_engineer_asset_pack.material_blazopowder.tooltip": "Very high combustion speed, suitable as an explosive rather than a propellant",
   "tooltip.tacz_engineer_asset_pack.material_nitropowder.tooltip": "It revolutionized gunpowder technology",
   "tooltip.tacz_engineer_asset_pack.metal_ingot_cma.tooltip": "Engineering research: +2000",

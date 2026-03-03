@@ -99,19 +99,6 @@
   "effect.tacz_engineer_asset_pack.nitrated_mobeffect": "硝化",
   "effect.tacz_engineer_asset_pack.nitrated_mobeffect.description": "易爆",
 
-  "item.immersiveengineering.empty_casing": "手枪弹弹壳",
-  "item.immersiveengineering.empty_shell": "霰弹弹壳",
-  "item.immersiveengineering.gunpart_hammer": "击锤",
-  "item.immersiveengineering.gunpart_barrel": "滑膛钢枪管",
-
-  "desc.immersiveengineering.info.blueprint.taczE_high_energy_chemistry": "高能化学",
-  "desc.immersiveengineering.info.blueprint.taczE_firearm_components": "枪械部件",
-  "desc.immersiveengineering.info.blueprint.taczE_advanced_firearm_components": "先进枪械部件",
-  "desc.immersiveengineering.info.blueprint.taczE_advanced_weapon_power_system": "先进武器动力系统",
-  "desc.immersiveengineering.info.blueprint.taczE_firearm_electronics": "枪械适配电子设备",
-  "desc.immersiveengineering.info.blueprint.taczE_common_projectile_mold": "普通弹药模具",
-  "desc.immersiveengineering.info.blueprint.taczE_specialized_projectile_mold": "特种弹药模具",
-  "desc.immersiveengineering.info.blueprint.taczE_gunpart_mold": "枪械部件摸具",
 
   "tooltip.tacz_engineer_asset_pack.casing_rifle.tooltip": "接受钢，铝合金，黄铜，聚合物",
   "tooltip.tacz_engineer_asset_pack.casing_buckshot.tooltip": "接受钢，铝合金，黄铜",
@@ -127,7 +114,7 @@
   "tooltip.tacz_engineer_asset_pack.head_shell.tooltip": "接受钢或黄铜",
   "tooltip.tacz_engineer_asset_pack.head_slug.tooltip": "接受许多种类的材料",
   "tooltip.tacz_engineer_asset_pack.material_ap_incomplete.tooltip": "脱壳尾翼稳定穿甲弹的核心\n在工程师装配台上添加外壳以完成组装\n接受钢，下届合金，贫化铀，瓷金",
-  "tooltip.tacz_engineer_asset_pack.material_arc_powder.tooltip": "在适当的压力和高功率电流下会引发碳碳冷聚变",
+  "tooltip.tacz_engineer_asset_pack.material_arc_powder.tooltip": "在适当的压力和高功率电流下会引发碳碳冷聚变\n提示：建议通过光电效应来激发反应，而不是将两根铜线直接插进混合物中。",
   "tooltip.tacz_engineer_asset_pack.material_blazopowder.tooltip": "极快的燃烧速度，一种合适的炸药",
   "tooltip.tacz_engineer_asset_pack.material_nitropowder.tooltip": "它带来了火药科技的革命",
   "tooltip.tacz_engineer_asset_pack.metal_ingot_cma.tooltip": "工程学：+2000",
@@ -172,4 +159,5 @@
   "item.tacz_engineer_asset_pack.material_create_primer": "[机械动力]柔性底火",
   "item.tacz_engineer_asset_pack.material_create_primer_incomplete": "[机械动力]未完成的柔性底火",
   "item.tacz_engineer_asset_pack.material_create_redstone_tiny": "[机械动力]一勺红石粉"
+
 }

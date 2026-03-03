@@ -1,0 +1,15 @@
+{
+  "item.immersiveengineering.empty_casing": "手枪弹弹壳",
+  "item.immersiveengineering.empty_shell": "霰弹弹壳",
+  "item.immersiveengineering.gunpart_hammer": "击锤",
+  "item.immersiveengineering.gunpart_barrel": "滑膛钢枪管",
+
+  "desc.immersiveengineering.info.blueprint.taczE_high_energy_chemistry": "高能化学",
+  "desc.immersiveengineering.info.blueprint.taczE_firearm_components": "枪械部件",
+  "desc.immersiveengineering.info.blueprint.taczE_advanced_firearm_components": "先进枪械部件",
+  "desc.immersiveengineering.info.blueprint.taczE_advanced_weapon_power_system": "先进武器动力系统",
+  "desc.immersiveengineering.info.blueprint.taczE_firearm_electronics": "枪械适配电子设备",
+  "desc.immersiveengineering.info.blueprint.taczE_common_projectile_mold": "普通弹药模具",
+  "desc.immersiveengineering.info.blueprint.taczE_specialized_projectile_mold": "特种弹药模具",
+  "desc.immersiveengineering.info.blueprint.taczE_gunpart_mold": "枪械部件摸具"
+}

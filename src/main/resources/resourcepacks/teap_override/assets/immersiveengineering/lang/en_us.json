@@ -1,0 +1,15 @@
+{
+  "item.immersiveengineering.empty_casing": "Pistol Casing",
+  "item.immersiveengineering.empty_shell": "Buckshot Casing",
+  "item.immersiveengineering.gunpart_hammer": "Gun Hammer",
+  "item.immersiveengineering.gunpart_barrel": "Steel Smoothbore Barrel",
+
+  "desc.immersiveengineering.info.blueprint.taczE_high_energy_chemistry": "High Energy Chemistry",
+  "desc.immersiveengineering.info.blueprint.taczE_firearm_components": "Firearm Components",
+  "desc.immersiveengineering.info.blueprint.taczE_advanced_firearm_components": "Advanced Firearm Components",
+  "desc.immersiveengineering.info.blueprint.taczE_advanced_weapon_power_system": "Advanced Weapon Power System",
+  "desc.immersiveengineering.info.blueprint.taczE_firearm_electronics": "Firearm Electronics",
+  "desc.immersiveengineering.info.blueprint.taczE_common_projectile_mold": "Common Projectile Mold",
+  "desc.immersiveengineering.info.blueprint.taczE_specialized_projectile_mold": "Specialized Projectile Mold",
+  "desc.immersiveengineering.info.blueprint.taczE_gunpart_mold": "Gun Parts Mold"
+}

@@ -1,8 +1,6 @@
 {
   "pack": {
-    "description": {
-      "text": "${mod_id} resources"
-    },
+    "description": "Resources used for TACZ Engineer Asset Pack",
     "pack_format": 15
   }
 }
